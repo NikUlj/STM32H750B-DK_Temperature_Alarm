@@ -1,0 +1,2 @@
+../Core/Src/alarm.c:16:6:Alarm	16	static
+../Core/Src/alarm.c:48:6:Set_alarm	48	static

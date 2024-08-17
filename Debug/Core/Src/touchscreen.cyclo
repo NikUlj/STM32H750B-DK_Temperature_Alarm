@@ -1,0 +1,5 @@
+../Core/Src/touchscreen.c:61:6:Touchscreen_template_init	2
+../Core/Src/touchscreen.c:110:6:Draw_temperature	1
+../Core/Src/touchscreen.c:120:24:Button_check	10
+../Core/Src/touchscreen.c:138:6:Draw_threshold	1
+../Core/Src/touchscreen.c:148:6:Draw_buttons	8

@@ -1,0 +1,3 @@
+../Core/Src/temp_conversion.c:10:10:Binary_search	6
+../Core/Src/temp_conversion.c:37:10:Get_temps	1
+../Core/Src/temp_conversion.c:46:7:Linear_interpolation	1
