@@ -111,7 +111,6 @@ int main(void)
   // Draws the default alarm temperature (35)
   Draw_threshold(alarm_temp);
 
-  /* Wait For User inputs */
   while (1)
   {
 	  // Is true every 20ms
