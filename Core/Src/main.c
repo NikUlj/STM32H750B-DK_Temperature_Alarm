@@ -56,13 +56,6 @@ float temp;
 int temp_int;
 int temp_frac;
 
-int ARR_period;
-int melodyIndex;
-int noteIndex;
-int melodyCount;
-int NoteFreq;
-int Delaymsecs;
-
 int16_t alarm_temp = 35;
 Button_Pressed_Typedef current_state = BUTTON_PRESSED_NONE;
 Button_Pressed_Typedef new_state;
