@@ -181,11 +181,8 @@ int main(void)
 				  counter++, analogValue, VOut_int, VOut_frac, res_int, res_frac, temp_int, temp_frac);
 		  HAL_UART_Transmit(&huart3, (uint8_t *)sendBuffer, strlen(sendBuffer), 100);
 
-//		  HAL_GPIO_TogglePin(GPIOH, GPIO_PIN_10);
-
 		  flag_1s = 0;
 	  }
-
   }
 }
 /**
