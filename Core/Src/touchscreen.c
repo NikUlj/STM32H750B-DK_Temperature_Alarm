@@ -75,12 +75,6 @@ void Touchscreen_template_init(void) {
 
 	  if(ts_status == BSP_ERROR_NONE)
 	  {
-		uint32_t x_size, y_size;
-
-		BSP_LCD_GetXSize(0, &x_size);
-		BSP_LCD_GetYSize(0, &y_size);
-
-
 		/* Clear the LCD */
 		UTIL_LCD_Clear(UTIL_LCD_COLOR_WHITE);
 

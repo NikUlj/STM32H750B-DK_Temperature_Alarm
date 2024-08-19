@@ -1,5 +1,5 @@
-../Core/Src/touchscreen.c:61:6:Touchscreen_template_init	32	static
-../Core/Src/touchscreen.c:110:6:Draw_temperature	24	static
-../Core/Src/touchscreen.c:120:24:Button_check	8	static
-../Core/Src/touchscreen.c:138:6:Draw_threshold	24	static
-../Core/Src/touchscreen.c:148:6:Draw_buttons	16	static
+../Core/Src/touchscreen.c:61:6:Touchscreen_template_init	24	static
+../Core/Src/touchscreen.c:104:6:Draw_temperature	24	static
+../Core/Src/touchscreen.c:114:24:Button_check	8	static
+../Core/Src/touchscreen.c:132:6:Draw_threshold	24	static
+../Core/Src/touchscreen.c:142:6:Draw_buttons	16	static
